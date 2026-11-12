@@ -8,6 +8,4 @@ This project was developed as part of the Machine Learning course assignment. It
 * **Classification Models:** Development and evaluation of machine learning classifiers.
 * **Hidden Phrase Challenge:** Application of the final trained model to decode sequences of images into readable text phrases.
 
-**Authors:**  
-* Sotiris Zotos (5227)  
-* Lefteris Pavlidis (5332)
+
